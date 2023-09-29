@@ -1,6 +1,6 @@
 ## Olá, eu sou Mauricio
 - 👋 Oi, eu sou @ yMaurici0
-- 👽 Cursando 3º período em Analise e desenvolvimento de sistemas 
-- 🌱 Atualmente estou aprendendo logica de programação em C
+- 👽 Cursando 4º período em Analise e desenvolvimento de sistemas 
+- 🌱 java - C - HTML e CSS - Bootstrap - SQLServer
 - 📫 Como me contatar mauriciodettmann@gmail.com
 
